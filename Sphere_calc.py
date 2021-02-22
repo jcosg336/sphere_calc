@@ -1,5 +1,5 @@
 """
-Program: sphere.py
+Program: sphere_calc.py
 Author: Jcosg336
 Date: 1/30/2020
 
